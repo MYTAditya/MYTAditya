@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mastered-YT-Aditya
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Scratch, HTML, CSS, Java and BASIC
+- 🌱 I’m currently learning Scratch, HTML, CSS, Java, JavaScript, ActionScript, LOGO & BASIC
 - 💞️ I’m looking to collaborate on Aditya OS
 
 <!---
