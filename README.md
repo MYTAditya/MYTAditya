@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mastered-YT-Aditya
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Scratch, HTML, CSS, Java, JavaScript, ActionScript, LOGO & BASIC
+- 👋 Hi, I’m @MYTAditya
+- 👀 I’m interested in App and Game Developing
+- 🌱 I’m currently learning Scratch, HTML, CSS & JavaScript
 - 💞️ I’m looking to collaborate on Galacticia
 
 <!---
