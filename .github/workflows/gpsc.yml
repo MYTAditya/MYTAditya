@@ -20,7 +20,7 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "master"
-          UTC_OFFSET: 05:30
+          UTC_OFFSET: 05.30
           AUTO_PUSH: true
           THEME: "midnight_purple"
-          ANIMATION: "rgb"
+          ANIMATION: "draw"
