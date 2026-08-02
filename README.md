@@ -24,7 +24,7 @@
 
  ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mytaditya&theme=github-dark&area=true&color=000000&line=000000&point=000000&bg_color=a9e43a)
  
- ![GitHub Snake](https://raw.githubusercontent.com/mytaditya/mytaditya/output/github-snake-dark.svg)
+ ![GitHub Snake](./profile/github-snake-dark.svg)
 
  ![GitHub Trophy](https://github-trophies.devomb.com/?username=MYTAditya&theme=matrix&column=4)
 
