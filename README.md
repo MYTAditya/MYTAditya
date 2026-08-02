@@ -20,7 +20,7 @@
 
  ![GitHub Top Langs](./profile/top-langs.svg)
 
- ![GitHub Contribution](https://github-contribution-card.vercel.app/api?username=mytaditya&hide_title=false&hide_border=true&bg_color=0,A9E43A,01C45B&theme=graywhite&limit=12&combine_all_yearly_contributions=true&hide_contributor_rank=false)
+ ![GitHub Contribution](./profile/github-contribution-card.svg)
 
  ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mytaditya&theme=github-dark&area=true&color=000000&line=000000&point=000000&bg_color=a9e43a)
  
@@ -30,11 +30,11 @@
 
  ![GitHub Streak](./profile/streak.svg)
 
- ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mytaditya&theme=merko)
+ ![GitHub Summary](./profile-summary-card-output/midnight_purple/0-profile-details.svg)
 
- ![GitHub Summary Repos Per Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mytaditya&theme=merko) ![GitHub Summary Most Commit Lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mytaditya&theme=merko)
+ ![GitHub Summary Repos Per Lang](./profile-summary-card-output/midnight_purple/1-repos-per-language.svg) ![GitHub Summary Most Commit Lang](./profile-summary-card-output/midnight_purple/2-most-commit-language.svg)
  
- ![GitHub Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mytaditya&theme=merko) ![GitHub Summary Indian Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mytaditya&theme=merko&utcOffset=+5.30)
+ ![GitHub Summary Stats](./profile-summary-card-output/midnight_purple/3-stats.svg) ![GitHub Summary Indian Time](./profile-summary-card-output/midnight_purple/4-productive-time.svg)
  
  ![GitAnimals Pet](https://render.gitanimals.org/lines/MYTAditya?pet-id=844859918580849057)
  
