@@ -8,7 +8,7 @@
 
 ### My Skills
 
-![](https://skills.syvixor.com/api/icons?perline=15&i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,googlegemini,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,hugo,linux,msdos,openvpn,peazip,protonvpn,qoder,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,vite,react)
+![](https://skills.syvixor.com/api/icons?perline=15&i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,googlegemini,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,qoder,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,vite,react)
  
 ### My Stats
 
