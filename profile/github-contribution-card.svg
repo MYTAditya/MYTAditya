@@ -271,8 +271,8 @@
       
     <g data-testid="rank-circle" transform="translate(235, 0)">
       <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
-      <g class="rank-text"><text x="4" y="18.5">
-        S+
+      <g class="rank-text"><text x="7.2" y="18.5">
+        B
        </text></g>
     </g>
     <g data-testid="rank-circle" transform="translate(285, 0)">
