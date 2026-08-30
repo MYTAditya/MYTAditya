@@ -22,6 +22,8 @@
 
  ![GitHub Contribution](./profile/github-contribution-card.svg)
 
+ ![GitHub Profile 3D Contribution](./profile-3d-contrib/profile-green-animate.svg)
+
  ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mytaditya&theme=github-dark&area=true&color=000000&line=000000&point=000000&bg_color=a9e43a)
  
  ![GitHub Snake](./profile/github-snake-dark.svg)
