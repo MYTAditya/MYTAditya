@@ -12,7 +12,7 @@
  
 ### My Stats
 
- ![](https://komarev.com/ghpvc/?username=mytaditya&style=for-the-badge&label=PROFILE+VIEWS) ![](https://img.shields.io/github/stars/MYTAditya?style=for-the-badge&logo=GitHub&color=561BC5) ![](https://img.shields.io/github/followers/MYTAditya?style=for-the-badge&logo=GitHub&color=FE3BA4) ![](https://img.shields.io/youtube/channel/subscribers/UC4V1jOHZhjBhMpq2pvnmoAw?style=for-the-badge&color=a9e43a&logo=YouTube&logoColor=white) ![](https://img.shields.io/youtube/channel/views/UC4V1jOHZhjBhMpq2pvnmoAw?style=for-the-badge&color=01c45b&logo=YouTube&logoColor=white) ![](https://img.shields.io/reddit/user-karma/combined/MYTAdityaOfficial?style=for-the-badge&color=31F6E1&logo=reddit&logoColor=white)
+ ![](https://komarev.com/ghpvc/?username=mytaditya&style=for-the-badge&label=PROFILE+VIEWS) ![](https://img.shields.io/github/stars/MYTAditya?style=for-the-badge&logo=GitHub&color=01c45b) ![](https://img.shields.io/github/followers/MYTAditya?style=for-the-badge&logo=GitHub&color=a9e43a) ![](https://img.shields.io/reddit/user-karma/combined/MYTAdityaOfficial?style=for-the-badge&color=31F6E1&logo=reddit&logoColor=white)
  
  ![Github Immortality](https://github-immortality.vercel.app/api?username=mytaditya&theme=dark)
 
