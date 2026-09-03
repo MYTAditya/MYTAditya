@@ -42,9 +42,6 @@
  
  ![GitAnimals Farm](https://render.gitanimals.org/farms/mytaditya)
  
- ![GitAnimals Guild](https://render.gitanimals.org/guilds/861166348594687147/draw)
- 
-### My Badges
-<!-- my-badges start -->
-<a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
-<!-- my-badges end -->
+ ![Clandroid: My GitAnimals Guild](https://render.gitanimals.org/guilds/861166348594687147/draw)
+
+ ![X-Frontend](https://render.gitanimals.org/guilds/681112822797579739/draw)
