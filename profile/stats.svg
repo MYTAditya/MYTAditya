@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mastered YT Aditya&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  : 480, Total PRs: 8, Total PRs Merged: 6, Merged PRs Percentage: 75.00, Total PRs Reviewed: 0, Total Issues: 2, Total Discussions Started: 1, Total Discussions Answered: 0, PRs Commented: 0, PRs Reviewed: 0, Issues Commented: 2, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  : 494, Total PRs: 8, Total PRs Merged: 6, Merged PRs Percentage: 75.00, Total PRs Reviewed: 0, Total Issues: 2, Total Discussions Started: 1, Total Discussions Answered: 0, PRs Commented: 0, PRs Reviewed: 0, Issues Commented: 2, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,11 +73,12 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 215.58066346679357;
+        stroke-dashoffset: 215.2906339478988;
       }
     }
   
   
+          
 
           
       /* Animations */
@@ -103,6 +104,7 @@
 
         
         <defs>
+          
           <linearGradient
             id="gradient"
             gradientTransform="rotate(0)"
@@ -110,11 +112,13 @@
           >
             <stop offset="0%" stop-color="#A9E43A" />,<stop offset="100%" stop-color="#01C45B" />
           </linearGradient>
+          
         </defs>
         
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
@@ -187,7 +191,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >480</text>
+      >494</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
