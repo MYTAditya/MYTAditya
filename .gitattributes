@@ -1,2 +1,2 @@
-*.md linguist-documentation=false
-*.md linguist-detectable=true
+*.md linguist-documentation=false linguist-detectable=true
+*.yml linguist-detectable=true linguist-language=YAML
