@@ -10,7 +10,7 @@
 ### My Skills
 
 <!-- Skill Icons by syvixor: https://github.com/syvixor/skills-icons -->
-![](https://skills.syvixor.com/api/icons?perline=15&i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,googlegemini,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,qoder,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,vite,react)
+![Skills Icons](https://skills.syvixor.com/api/icons?perline=15&i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,googlegemini,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,qoder,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,vite,react)
  
 ### My Stats
 
@@ -36,22 +36,26 @@
 <!-- snk by Arthur (Platane): https://github.com/Platane/snk -->
 ![GitHub Snake](./profile/github-snake-dark.svg)
 
- ![GitHub Trophy](https://github-trophies.devomb.com/?username=MYTAditya&theme=matrix&column=4)
+<!-- GitHub Profile Trophy by Devom Brahmbhatt (DevomB): https://github.com/DevomB/Github-Trophies -->
+![GitHub Trophy](https://github-trophies.devomb.com/?username=MYTAditya&theme=matrix&column=4)
 
- ![GitHub Streak](./profile/streak.svg)
+<!-- Github Readme Streak Stats by Jonah Lawrence (DenverCoder1): https://github.com/denvercoder1/github-readme-streak-stats -->
+![GitHub Streak](./profile/streak.svg)
 
- ![GitHub Summary](./profile-summary-card-output/midnight_purple/0-profile-details.svg)
+<!-- GitHub Profile Summary Cards by Casper (vn7n24fzkq): https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+![GitHub Summary](./profile-summary-card-output/midnight_purple/0-profile-details.svg)
 
- ![GitHub Summary Repos Per Lang](./profile-summary-card-output/midnight_purple/1-repos-per-language.svg) ![GitHub Summary Most Commit Lang](./profile-summary-card-output/midnight_purple/2-most-commit-language.svg)
+![GitHub Summary Repos Per Lang](./profile-summary-card-output/midnight_purple/1-repos-per-language.svg) ![GitHub Summary Most Commit Lang](./profile-summary-card-output/midnight_purple/2-most-commit-language.svg)
  
- ![GitHub Summary Stats](./profile-summary-card-output/midnight_purple/3-stats.svg) ![GitHub Summary Indian Time](./profile-summary-card-output/midnight_purple/4-productive-time.svg)
+![GitHub Summary Stats](./profile-summary-card-output/midnight_purple/3-stats.svg) ![GitHub Summary Indian Time](./profile-summary-card-output/midnight_purple/4-productive-time.svg)
  
- ![GitAnimals Pet](https://render.gitanimals.org/lines/MYTAditya?pet-id=844859918580849057)
+<!-- GitAnimals by git-goods: https://github.com/git-goods/gitanimals -->
+![GitAnimals Pet](https://render.gitanimals.org/lines/MYTAditya?pet-id=844859918580849057)
  
- ![GitAnimals Farm](https://render.gitanimals.org/farms/mytaditya)
+![GitAnimals Farm](https://render.gitanimals.org/farms/mytaditya)
  
- ![Clandroid: My GitAnimals Guild](https://render.gitanimals.org/guilds/861166348594687147/draw)
+![Clandroid: My GitAnimals Guild](https://render.gitanimals.org/guilds/861166348594687147/draw)
 
- ![X-Frontend](https://render.gitanimals.org/guilds/681112822797579739/draw)
+![X-Frontend](https://render.gitanimals.org/guilds/681112822797579739/draw)
  
- ![JIWOO-HOUSE](https://render.gitanimals.org/guilds/673540103172091050/draw)
+![JIWOO-HOUSE](https://render.gitanimals.org/guilds/673540103172091050/draw)
