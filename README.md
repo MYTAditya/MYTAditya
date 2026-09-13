@@ -10,11 +10,12 @@
 ### My Skills
 
 <!-- Skill Icons by syvixor: https://github.com/syvixor/skills-icons -->
-![Skills Icons](https://skills.syvixor.com/api/icons?perline=15&i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,googlegemini,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,qoder,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,vite,react)
+![Skills Icons](https://skills.syvixor.com/api/icons?perline=15&i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,bolt,vite,react,vue,claudeai,googlecolaboratory,reddit)
  
 ### My Stats
 
-![](https://komarev.com/ghpvc/?username=mytaditya&style=for-the-badge&label=PROFILE+VIEWS) ![](https://img.shields.io/github/stars/MYTAditya?style=for-the-badge&logo=GitHub&color=01c45b) ![](https://img.shields.io/github/followers/MYTAditya?style=for-the-badge&logo=GitHub&color=a9e43a) ![](https://img.shields.io/reddit/user-karma/combined/MYTAdityaOfficial?style=for-the-badge&color=31F6E1&logo=reddit&logoColor=white)
+<!-- GitHub Profile Views Counter by Anton Komarev (antonkomarev): https://github.com/antonkomarev/github-profile-views-counter -->
+![](https://komarev.com/ghpvc/?username=mytaditya&style=for-the-badge&label=PROFILE+VIEWS)  <!-- shields by Shields.io (badges): https://github.com/badges/shields --> ![](https://img.shields.io/github/stars/MYTAditya?style=for-the-badge&logo=GitHub&color=01c45b) ![](https://img.shields.io/github/followers/MYTAditya?style=for-the-badge&logo=GitHub&color=a9e43a) ![](https://img.shields.io/reddit/user-karma/combined/MYTAdityaOfficial?style=for-the-badge&color=31F6E1&logo=reddit&logoColor=white)
 
 <!-- GitHub Immortality by IceEnd: https://github.com/IceEnd/github-immortality -->
 ![Github Immortality](https://github-immortality.vercel.app/api?username=mytaditya&theme=dark)
