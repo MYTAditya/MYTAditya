@@ -30,9 +30,11 @@
 <!-- GitHub Readme Activity Graph Action by Mauro de Souza (maurodesouza): https://github.com/maurodesouza/github-readme-activity-graph-action -->
 ![GitHub Activity](./profile/activity-graph.svg)
 
- ![GitHub Profile 3D Contribution](./profile-3d-contrib/profile-night-green.svg)
+<!-- GitHub Profile 3D Contrib by SATO Yoshiyuki (yoshi389111): https://github.com/yoshi389111/github-profile-3d-contrib -->
+![GitHub Profile 3D Contribution](./profile-3d-contrib/profile-night-green.svg)
  
- ![GitHub Snake](./profile/github-snake-dark.svg)
+<!-- snk by Arthur (Platane): https://github.com/Platane/snk -->
+![GitHub Snake](./profile/github-snake-dark.svg)
 
  ![GitHub Trophy](https://github-trophies.devomb.com/?username=MYTAditya&theme=matrix&column=4)
 
