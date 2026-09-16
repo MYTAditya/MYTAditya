@@ -1,6 +1,7 @@
 # Hi guys! It's me, Aditya!
 
-<img width="1000" height="296" alt="Official Banner" src="https://github.com/user-attachments/assets/1e0f2de6-d00b-4573-896d-c0777fcf776e" />
+<!-- The banner is distributed under CC-BY-SA-4.0 -->
+<img width="1000" height="296" alt="Official Banner" src="https://github.com/user-attachments/assets/adb9c341-1853-427a-99af-7adb1d5008ee" />
 
 <img width="1000" height="5" alt="---" src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" />
 
@@ -10,7 +11,7 @@
 ### My Skills
 
 <!-- Skill Icons by syvixor: https://github.com/syvixor/skills-icons -->
-![Skills Icons](https://skills.syvixor.com/api/icons?perline=15&i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,bolt,vite,react,vue,claudeai,googlecolaboratory,reddit)
+![Skills Icons](https://skills.syvixor.com/api/icons?perline=15&i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,bolt,vite,react,vue,claudeai,googlecolaboratory,reddit,gimp,7zip,bash,eslint,git,json,makecode,notepadplusplus,nodejs,obs,powershell,regex,shizuku,virustotal,vlc)
  
 ### My Stats
 
