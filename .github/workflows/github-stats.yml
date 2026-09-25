@@ -7,7 +7,7 @@ on:
         - cron: "0 12 * * *"
 
     push:
-        branches: [main]
+        branches: [master]
         paths:
             - "github-stats/**"
             - ".github/workflows/github-stats.yml"
