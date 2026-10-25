@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mastered YT Aditya&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  : 833, Total PRs: 13, Total PRs Merged: 9, Merged PRs Percentage: 69.23, Total PRs Reviewed: 0, Total Issues: 3, Total Discussions Started: 1, Total Discussions Answered: 0, PRs Commented: 0, PRs Reviewed: 0, Issues Commented: 5, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  : 835, Total PRs: 13, Total PRs Merged: 9, Merged PRs Percentage: 69.23, Total PRs Reviewed: 0, Total Issues: 3, Total Discussions Started: 1, Total Discussions Answered: 0, PRs Commented: 0, PRs Reviewed: 0, Issues Commented: 5, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 203.28980327166542;
+        stroke-dashoffset: 203.2572282221595;
       }
     }
   
@@ -191,7 +191,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >833</text>
+      >835</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
