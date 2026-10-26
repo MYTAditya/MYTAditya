@@ -11,7 +11,7 @@
 ### My Skills
 
 <!-- Skill Icons by syvixor: https://github.com/syvixor/skills-icons -->
-![Skills Icons](https://skills.syvixor.com/api/icons?perline=15&i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,bolt,vite,react,vue,claudeai,googlecolaboratory,reddit,gimp,7zip,bash,eslint,git,json,makecode,notepadplusplus,nodejs,obs,powershell,regex,shizuku,virustotal,vlc)
+![Skills Icons](https://skills.syvixor.com/api/icons?perline=15&i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,bolt,vite,react,vue,claudeai,googlecolaboratory,reddit,gimp,7zip,bash,eslint,git,json,makecode,notepadplusplus,nodejs,obs,powershell,regex,shizuku,virustotal,vlc,protonmail,protonpass)
  
 ### My Stats
 
